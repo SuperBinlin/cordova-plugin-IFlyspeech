@@ -7,4 +7,4 @@
 
 ## Installation
 
-cordova plugin add https://github.com/ghgithub/cordova-plugin-IFlyspeech
+cordova plugin add https://github.com/SuperBinlin/cordova-plugin-IFlyspeech.git
